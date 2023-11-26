@@ -16,7 +16,10 @@ Experiência na criação de visões analíticas utilizando SQL em bancos de dad
 
 * Se você deseja conversar comigo, sinta-se a vontade para conversar comigo no [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/eduardo-pe-lima/))
 
-## Projetos:
+### Projetos de Engenharia de Dados:
+
+
+### Projetos Analíticos:
 * [Analisando dados do Airbnb da cidade de Berlim](https://github.com/EduardoPeLima/analises_exploratorias_de_dados/blob/main/airbnb_estudo_berlim/airbnb_analise_exploratoria.ipynb)
 
 
