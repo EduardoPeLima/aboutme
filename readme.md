@@ -3,7 +3,6 @@
 </p>
 
 # Olá, me chamao Eduardo Pereira Lima.
-<sub>*Engenheiro de Dados</sub>
 
 Sou formado como técnico em eletrônica pela ETEC. Atualmente curso Sistemas de Informação na FIAP, faculdade referência na área de tecnologia.
 
