@@ -14,7 +14,7 @@ Tenho convivência com o tratamento de grandes volumes de dados, criando pipelin
 
 Experiência na criação de visões analíticas utilizando SQL em bancos de dados relacionais como SQL Server, PostgreSQL, Oracle, GCP BigQuery e AWS Athena. 
 
-Se você deseja conversar comigo, sinta-se a vontade para conversar comigo no [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/eduardo-pe-lima/))
+Se você deseja conversar comigo, sinta-se a vontade para conversar comigo no [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/eduardo-pe-lima/)
 
 ### Projetos de Engenharia de Dados:
 
