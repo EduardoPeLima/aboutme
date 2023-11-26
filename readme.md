@@ -8,7 +8,7 @@ Sou um entusiasta por dados, mergulhando no universo binário desde os tempos do
 
 Comecei minha trajetória profissional como auxiliar financeiro, onde rapidamente automatizei meus processos graças a programação e comecei a perceber a importância dos dados dentro de um negócio, criando dashboards e pequenas pipelines de dados que mais tarde se tornariam informações importantíssimas para a empresa como um todo, desde o financeiro até as demais áreas, o que me rendeu uma promoção a Analista de Dados.
 
-Com o decorrer do tempo, fui me aprofundando mais no mundo dos dados, especialmente na engenharia de dados devido minha maior afinidade com a parte técnica, chegando a estruturar em duas empresas suas primeiras arquiteturas analíticas em nuvem. 
+Com o decorrer do tempo, fui me aprofundando mais no mundo dos dados, especialmente na engenharia de dados devido minha maior afinidade com a parte técnica, chegando a estruturar em duas empresas suas primeiras arquiteturas analíticas em nuvem, por iniciativa própria. 
 
 Tenho convivência com o tratamento de grandes volumes de dados, criando pipelines de dados utilizando PySpark e Pandas. Além de desenvolver pipelines e arquiteturas em serviços nuvem, como GCP e AWS.
 
