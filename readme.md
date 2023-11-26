@@ -14,7 +14,7 @@ Tenho convivência com o tratamento de grandes volumes de dados, criando pipelin
 
 Experiência na criação de visões analíticas utilizando SQL em bancos de dados relacionais como SQL Server, PostgreSQL, Oracle, GCP BigQuery e AWS Athena. 
 
-* Se você deseja conversar comigo, sinta-se a vontade em me chamar no [LinkedIn](https://www.linkedin.com)
+* Se você deseja conversar comigo, sinta-se a vontade para conversar comigo no [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/eduardo-pe-lima/))
 
 ## Projetos:
 * [Analisando dados do Airbnb da cidade de Berlim](https://github.com/EduardoPeLima/analises_exploratorias_de_dados/blob/main/airbnb_estudo_berlim/airbnb_analise_exploratoria.ipynb)
