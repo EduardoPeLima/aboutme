@@ -2,28 +2,23 @@
   <img src="banner.png" >
 </p>
 
-# Eduardo Pereira Lima
-<sub>*Analista de BI e aspirante a Engenharia de Dados</sub>
+# Olá, me chamao Eduardo Pereira Lima.
+<sub>*Engenheiro de Dados</sub>
 
-Comecei minha trajetória em uma agência de marketing como auxiliar financeiro, onde rapidamente automatizei meus processos graças a programação e comecei a perceber a importância dos dados dentro de um negócio, criando dashboards que mais tarde se tornariam informações importantíssimas para a empresa como um todo, desde o financeiro até as demais áreas, o que me rendeu uma promoção a Analista de Dados.
+Sou formado como técnico em eletrônica pela ETEC. Atualmente curso Sistemas de Informação na FIAP, faculdade referência na área de tecnologia.
 
-No presente, atuo na área de dados dentro de uma empresa com presença em quase todos os estados brasileiros, prestando suporte técnico a grandes empresas privadas e públicas, onde sou responsável por toda a coleta de dados, tratamento e criação de insights para as áreas de negócios. 
+Comecei minha trajetória profissional como auxiliar financeiro, onde rapidamente automatizei meus processos graças a programação e comecei a perceber a importância dos dados dentro de um negócio, criando dashboards e pequenas pipelines de dados que mais tarde se tornariam informações importantíssimas para a empresa como um todo, desde o financeiro até as demais áreas, o que me rendeu uma promoção a Analista de Dados.
 
-Sou formado como técnico em eletrônica pela Escola Técnica Estadual (ETEC) e estou no terceiro período de Sistemas de Informação na Faculdade de Informática e Administração Paulista (FIAP), além disso, estudo constantemente tópicos de engenharia de dados.
+Com o decorrer do tempo, fui me aprofundando mais no mundo dos dados, especialmente na engenharia de dados devido minha maior afinidade com a parte técnica, chegando a estruturar em duas empresas suas primeiras arquiteturas analíticas em nuvem. 
 
-**Conhecimentos Técnicos:** Python, PySpark, SQL, Airflow, Cloud: AWS e GCP. </br>
-**GCP**: Cloud Functions, Cloud Storage e BigQuery. </br>
-**Idiomas:** Português Nativo e Inglês Intermediário. 
+Tenho convivência com o tratamento de grandes volumes de dados, criando pipelines de dados utilizando PySpark e Pandas. Além de desenvolver pipelines e arquiteturas em serviços nuvem, como GCP e AWS.
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com)
-* [Medium](https://www.medium.com)
+Experiência na criação de visões analíticas utilizando SQL em bancos de dados relacionais como SQL Server, PostgreSQL, Oracle, GCP BigQuery e AWS Athena. 
 
+* Se você deseja conversar comigo, sinta-se a vontade em me chamar no [LinkedIn](https://www.linkedin.com)
 
 ## Projetos:
-* **Analisando dados do Airbnb da cidade de Berlim:** https://bit.ly/3IrF4Ne
-
----
+* **Analisando dados do Airbnb da cidade de Berlim:** [https://bit.ly/3IrF4Ne](https://github.com/EduardoPeLima/analises_exploratorias_de_dados/blob/main/airbnb_estudo_berlim/airbnb_analise_exploratoria.ipynb)https://github.com/EduardoPeLima/analises_exploratorias_de_dados/blob/main/airbnb_estudo_berlim/airbnb_analise_exploratoria.ipynb
 
 
 
