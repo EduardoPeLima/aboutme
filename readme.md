@@ -17,7 +17,7 @@ Experiência na criação de visões analíticas utilizando SQL em bancos de dad
 * Se você deseja conversar comigo, sinta-se a vontade em me chamar no [LinkedIn](https://www.linkedin.com)
 
 ## Projetos:
-* **Analisando dados do Airbnb da cidade de Berlim:** [https://bit.ly/3IrF4Ne](https://github.com/EduardoPeLima/analises_exploratorias_de_dados/blob/main/airbnb_estudo_berlim/airbnb_analise_exploratoria.ipynb)https://github.com/EduardoPeLima/analises_exploratorias_de_dados/blob/main/airbnb_estudo_berlim/airbnb_analise_exploratoria.ipynb
+* [Analisando dados do Airbnb da cidade de Berlim](https://github.com/EduardoPeLima/analises_exploratorias_de_dados/blob/main/airbnb_estudo_berlim/airbnb_analise_exploratoria.ipynb)
 
 
 
