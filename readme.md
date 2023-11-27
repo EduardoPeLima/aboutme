@@ -4,7 +4,7 @@
 
 # Olá, me chamao Eduardo Pereira Lima.
 
-Sou um entusiasta por dados, mergulhando no universo binário desde os tempos do meu técnico em eletrônica. Atualmente, como bolsista em Sistemas de Informação na FIAP e engenheiro dados, busco transformar os bytes escondidos que nos cercam em valor para empresas.
+Sou um entusiasta por dados, mergulhando no universo binário desde os tempos do meu técnico em eletrônica. Atualmente, como bolsista em Sistemas de Informação na FIAP e engenheiro de dados, busco transformar os bytes escondidos que nos cercam em valor para empresas.
 
 Comecei minha trajetória profissional como auxiliar financeiro, onde rapidamente automatizei meus processos graças a programação e comecei a perceber a importância dos dados dentro de um negócio, criando dashboards e pequenas pipelines de dados que mais tarde se tornariam informações importantíssimas para a empresa como um todo, desde o financeiro até as demais áreas, o que me rendeu uma promoção a Analista de Dados.
 
